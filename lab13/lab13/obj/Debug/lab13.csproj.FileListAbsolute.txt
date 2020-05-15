@@ -1,0 +1,10 @@
+C:\Users\sea\Downloads\imit-13\imit13\lab13\bin\Debug\imit13.exe.config
+C:\Users\sea\Downloads\imit-13\imit13\lab13\bin\Debug\imit13.exe
+C:\Users\sea\Downloads\imit-13\imit13\lab13\bin\Debug\imit13.pdb
+C:\Users\sea\Downloads\imit-13\imit13\lab13\obj\Debug\lab13.csprojAssemblyReference.cache
+C:\Users\sea\Downloads\imit-13\imit13\lab13\obj\Debug\imit13.Form1.resources
+C:\Users\sea\Downloads\imit-13\imit13\lab13\obj\Debug\imit13.Properties.Resources.resources
+C:\Users\sea\Downloads\imit-13\imit13\lab13\obj\Debug\lab13.csproj.GenerateResource.cache
+C:\Users\sea\Downloads\imit-13\imit13\lab13\obj\Debug\lab13.csproj.CoreCompileInputs.cache
+C:\Users\sea\Downloads\imit-13\imit13\lab13\obj\Debug\imit13.exe
+C:\Users\sea\Downloads\imit-13\imit13\lab13\obj\Debug\imit13.pdb
