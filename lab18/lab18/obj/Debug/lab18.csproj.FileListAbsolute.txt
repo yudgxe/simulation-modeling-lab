@@ -1,0 +1,6 @@
+C:\Users\sea\Downloads\imit18\imit18\bin\Debug\imit18.exe.config
+C:\Users\sea\Downloads\imit18\imit18\bin\Debug\imit18.exe
+C:\Users\sea\Downloads\imit18\imit18\bin\Debug\imit18.pdb
+C:\Users\sea\Downloads\imit18\imit18\obj\Debug\lab18.csproj.CoreCompileInputs.cache
+C:\Users\sea\Downloads\imit18\imit18\obj\Debug\imit18.exe
+C:\Users\sea\Downloads\imit18\imit18\obj\Debug\imit18.pdb
